@@ -7,9 +7,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ishimwe-richard-40175a24a/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ishimwe-richard-40175a24a/#gh-dark-mode-only)
-
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 <!--
 **rich26638/rich26638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

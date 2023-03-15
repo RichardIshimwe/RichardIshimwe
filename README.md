@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in andela
+- ⚡  Check My portfolio https://my-brand-richard.netlify.app
 - 🌱 I’m currently learning software development
 - 📫 Write form on ishimwerichichard@gmail.com
 

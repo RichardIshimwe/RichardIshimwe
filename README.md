@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Richard  👋 
 
 - 🔭 I’m currently working in andela
 - ⚡  Check My portfolio https://my-brand-richard.netlify.app

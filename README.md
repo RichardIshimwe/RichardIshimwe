@@ -11,6 +11,12 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;border-radius:10px;" />
 </a>
 
+### Quick OverView
+
+![Role](https://img.shields.io/badge/Role-Software%20Engineer-green?style=flat-square&cacheSeconds=60)
+
+[![wakatime](https://wakatime.com/badge/user/018b0579-a66b-4c23-87a6-10c5a81368cb.svg)](https://wakatime.com/@018b0579-a66b-4c23-87a6-10c5a81368cb)
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 

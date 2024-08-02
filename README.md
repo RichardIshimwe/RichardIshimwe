@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ### 💻 Tech Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-sequelize-4285F4?style=flat-square&logo=Bootstrapp%&=white"/>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>   
-
+-->
 ### 💻 Github Status
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RichardIshimwe&show_icons=true&theme=merko"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardIshimwe&layout=compact"/>

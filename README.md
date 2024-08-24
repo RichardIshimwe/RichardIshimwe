@@ -1,8 +1,6 @@
 # Hi there, I'm Richard  👋 
 
-- 🔭 I’m currently working in andela
-- ⚡  Check My portfolio https://my-brand-richard.netlify.app
-- 🌱 I’m currently learning software development
+- 🔭 I’m currently working at Irenbo
 - 📫 Write for me at ishimwerichard26@gmail.com
 
 ### Connect with me:

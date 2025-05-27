@@ -1,6 +1,6 @@
 # Hi there, I'm Richard  👋 
 
-- 🔭 I’m currently working at Irenbo
+- 🔭 I’m currently working at Irembo
 - 📫 Write for me at ishimwerichard26@gmail.com
 
 ### Connect with me:
